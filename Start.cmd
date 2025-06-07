@@ -1,0 +1,1 @@
+cmd /c pwsh.exe -ExecutionPolicy Bypass -File "%~DP0Main.ps1"
